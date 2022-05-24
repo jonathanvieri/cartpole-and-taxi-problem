@@ -2,9 +2,6 @@
 
 This is the instruction to run the code
 
-
-* IMPORTANT *
-
 To be able to run the code, you will need add one extra library.
 
 
