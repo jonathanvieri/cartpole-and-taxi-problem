@@ -12,10 +12,10 @@ or
 pip install torch===1.6.0 torchvision===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
 
 
-# IMPORTANT
-# Make sure you have all the libraries that are used (Most of them should already be installed in Python, since it come with them)
-# Running the algorithm will make your computer lag if its not that strong (Takes a lot memory) 
-# This is due to real-time plotting of the reward that the agent get
+## IMPORTANT
+### Make sure you have all the libraries that are used (Most of them should already be installed in Python, since it come with them)
+### Running the algorithm will make your computer lag if its not that strong (Takes a lot memory) 
+### This is due to real-time plotting of the reward that the agent get
 
 
 How to run all of the code:
