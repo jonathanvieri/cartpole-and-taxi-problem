@@ -1,4 +1,4 @@
-# Q-Learning_for_CartPole_and_Taxi_Problem
+# Q-Learning for CartPole and Taxi Problem
 
 This is the instruction to run the code
 
